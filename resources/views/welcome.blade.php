@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel RunCloud :)
+                    Laravel is Awesome!
                 </div>
 
                 <div class="links">
